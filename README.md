@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="jaffle-shop-logo" src="https://github.com/user-attachments/assets/4c583c4e-3360-491f-8f88-9df1b79ea83b" />
+<img width="1920" height="1080" alt="jaffle-shop-logo" src="https://github.com/user-attachments/assets/1781d482-2e04-4317-ba40-37b6fea9715f" />
 
 ## Dbt project
 ### jaffle_shop is a fictional e-commerce store. 
